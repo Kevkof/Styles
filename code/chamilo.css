@@ -22,7 +22,7 @@ p, h3, .portal-block .panel-title {
 }
 
 div.panel-heading.ui-sortable-handle, .panel-heading, .nav.nav-tabs.course-list-tabs, .nav.nav-tabs.tool-list-tabs, .course-list-tab-content .list-group-header {
-  background-color: #232323;
+  background-color: #232323!important;
 }
 
 li.list-group-item, div.portal-block-content.portal-block-course-list>div {
