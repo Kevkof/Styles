@@ -1,0 +1,284 @@
+/*
+URLs on the domain: chamilo.hogent.be
+*/
+
+body, .navbar-header, .navbar.navbar-chamilo.navbar-default.navbar-no-items::before, #menu-navbar-collapse, .navbar.navbar-chamilo.navbar-default.navbar-no-items, #menu-navbar-collapse::before, .navbar.navbar-chamilo.navbar-default {
+  background-color: #222222!important;
+}
+
+div.panel-body, .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus, .breadcrumb, .container-breadcrumb, tbody>tr>td {
+  background-color: #333333!important;
+  color: #CCCCCC;
+}
+
+p, h3, .portal-block .panel-title {
+  color: #CCCCCC;
+}
+
+.bx-wrapper.bx-viewport {
+  background: #333333!important;
+  border: none;
+  box-shadow: none;
+}
+
+div.panel-heading.ui-sortable-handle, .panel-heading, .nav.nav-tabs.course-list-tabs, .nav.nav-tabs.tool-list-tabs, .course-list-tab-content .list-group-header {
+  background-color: #232323;
+}
+
+li.list-group-item, div.portal-block-content.portal-block-course-list>div {
+  background-color: #333333;
+}
+
+.pull-right>a, .course-list-tab-content .list-group-item-text, h5.list-group-item-heading.pull-left {
+  color: #AAAAAA;
+}
+
+.panel-default>.panel-heading {
+  color: #cccccc;
+  background-color: #232323;
+  border: none;
+}
+
+div#bericht-van-de-dag>p, div#bericht-van-de-dag>table>tbody>tr>td>p, u, div#bericht-van-de-dag>ul>li>p {
+  color: #000000;
+}
+
+.ident {
+  color: #DDDDDD;
+}
+
+.list-group-item {
+  background-color: #232323;
+  color: #CCCCCC;
+}
+
+thead>tr>th, th>a {
+  color: #0ab7ff;
+}
+
+.table-calendar td.table-calendar-weekend {
+  background-color: #333333;
+}
+
+.table-calendar-mini-container {
+  background-color: #333333;
+}
+
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-resizable {
+  background-color: #AAAAAA;
+}
+
+.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-icon-only.ui-dialog-titlebar-close {
+  background-color: #AAAAAA;
+}
+
+.fc-widget-content, .fc-widget-header {
+  border: 1px solid #000000;
+}
+
+.fc-event {
+  background-color: #111111;
+  border: 1px solid #dddddd;
+  color: #EEEEEE;
+}
+
+.fc-state-highlight {
+  background: #777777!important;
+}
+
+.ui-datepicker-inline.ui-datepicker.ui-widget.ui-widget-content.ui-helper-clearfix.ui-corner-all {
+  background-color: #111111!important;
+}
+
+table.ui-datepicker-calendar>thead>tr {
+  background-color: #333333!important;
+}
+
+table.ui-datepicker-calendar>thead>tr>th>span {
+  color: #dddddd!important;
+}
+
+table.fc-header>tbody>tr>td {
+  background-color: #222222!important;
+}
+
+ul.nav.nav-tabs.portal-nav-tabs.ui-sortable {
+  background-color: #232323;
+}
+
+ul.nav.nav-tabs.portal-nav-tabs.ui-sortable>li>a:hover {
+  background-color: #343434!important;
+}
+
+span.portal-nav-tab-title {
+  color: #DDDDDD;
+}
+
+li.pull-right.portal-actions.ui-sortable-handle>div>div>a, span.glyphicon.glyphicon-remove.portal-action-tab-delete.show {
+  color: #DDDDDD;
+}
+
+.btn-default span.glyphicon, .btn-default span.fa {
+  color: #DDDDDD;
+}
+
+ul.nav.nav-tabs.portal-nav-tabs {
+  background-color: #232323;
+}
+
+ul.nav.nav-tabs.portal-nav-tabs>li>a:hover {
+  background-color: #343434!important;
+}
+
+.navbar-chamilo ul.navbar-nav li.dropdown.open>a {
+  background: #444444;
+  border-top: 1px solid #444444;
+  border-bottom: 1px solid #444444;
+  color: #DDDDDD;
+}
+
+li.dropdown.open>ul.dropdown-menu>li>a {
+  background: #444444;
+  border: 1px solid #111111;
+  color: #c7d6eb;
+}
+
+li.dropdown.open>ul.dropdown-menu>li>a:hover {
+  background: #333333;
+  color: #DDDDDD;
+}
+
+.nav>li>a:hover {
+  background-color: #333333!important;
+}
+
+.btn-group-vertical>a.btn {
+  background-color: #333333!important;
+}
+
+a.btn.btn-default {
+  background-color: #333333!important;
+  border: 1px solid #DDDDDD!important;
+  color: #DDDDDD!important;
+}
+
+th.fc-agenda-axis.fc-widget-header {
+  color: #DDDDDD!important;
+}
+
+div.col-md-3.col-md-pull-9>div {
+  color: #BBBBBB!important;
+}
+
+ul.dropdown-menu.dropdown-menu-right>li>a {
+  background-color: #333333;
+  color: #DDDDDD;
+  border: 1px solid #BBBBBB;
+}
+
+ul.dropdown-menu.dropdown-menu-right {
+  background-color: #333333;
+}
+
+div.action-bar.input-group.pull-right>input {
+  background-color: #333333;
+  color: #DDDDDD;
+}
+
+div.input-group-btn>button {
+  background-color: #406e8e!important;
+}
+
+.pagination>.disabled>span, .pagination>.disabled>span:hover, .pagination>.disabled>span:focus {
+  background-color: #333333;
+  color: #DDDDDD;
+}
+
+#courses_visual_tabs>li>a, #courses_visual_tabs>li>a>span>span {
+  color: #DDDDDD;
+}
+
+#courses_visual_tabs>li>a:hover {
+  background-color: #444444!important;
+}
+
+#courses_visual_tabs {
+  background: #333333;
+  border: 1px solid #DDDDDD!important;
+}
+
+div.announcements.level_1, div.announcements.level_2 {
+  background: #333333!important;
+  color: #DDDDDD!important;
+}
+
+div.announcements.level_1>div.title {
+  color: #DDDDDD!important;
+}
+
+u {
+  color: #DDDDDD;
+}
+
+span#divtagdefaultwrapper {
+  color: #DDDDDD!important;
+}
+
+li.media.well {
+  background-color: #232323;
+}
+
+h4.media-body-title {
+  color: #EEEEEE;
+}
+
+pre {
+  background-color: #333333;
+  color: #DDDDDD;
+  border: 1px solid #0AB7FF;
+}
+
+div.attachments_title {
+  color: #CCCCCC;
+}
+
+img.avatar.img-thumbnail {
+  background-color: #232323;
+  border: none;
+}
+
+td>a {
+  color: #0ab7ff!important;
+}
+
+ul.nav.nav-tabs.dynamic-visual-tabs {
+  background-color: #333333!important;
+}
+
+.navbar-chamilo>ul.navbar-nav>li.active>a {
+  background: #222222 repeat-x top left !important;
+}
+
+ul.tree-menu>li>div>a, ul.tree-menu>li>ul>li>div>a, ul.tree-menu>li>ul>li>ul>li>div>a, ul.tree-menu>li>ul>li>ul>li>ul>li>div>a {
+  color: #BBBBBB!important;
+}
+
+span.title {
+  color: #CCCCCC!important;
+}
+
+div.media-body>div>ul>li {
+  color: #DDDDDD!important;
+}
+
+input {
+  background-color: #222222 !important;
+}
+
+div>select {
+  background-color: #232323 !important;
+}
+
+ul.nav.navbar-nav.navbar-right>li.active>img {
+  background-color: #444444 !important;
+}
