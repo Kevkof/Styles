@@ -4,24 +4,29 @@ URLs on the domain: calendar.google.com
 
 /* This is for the dark layout */
 
-.rUCtP,
-.gb_Bd.gb_7d,
-svg,
-.DPvwYc.sm8sCf.NhjcAb,
-.rSoRzd,
-span.DPvwYc.gPMPbe,
-span.DPvwYc.NhjcAb,
-.NlWrkb,
-.zqD8eb {
+.rUCtP, .gb_Bd.gb_7d, svg, .DPvwYc.sm8sCf.NhjcAb, .rSoRzd, span.DPvwYc.gPMPbe, span.DPvwYc.NhjcAb, .NlWrkb, .zqD8eb, .nL44Lb, .w61Ns.pCoqfc, .s4ZaLd, .ALy9T, .sx5BGe, .GENA3c, .SU7tYb.elYzab-cXXICe-Hjleke.N4XV7d, .eADW5d, .SU7tYb.elYzab-cXXICe-Hjleke.F262Ye, .SU7tYb.elYzab-cXXICe-Hjleke.pCcXPe, .MmhHI.qAeuG.pCcXPe, .YvjgZe.F262Ye::after, .WJVfWe.A3o4Oe::after, .MmhHI.KSxb4d.RKLVef.pCcXPe, .MmhHI.qAeuG.pCcXPe, .MmhHI.KSxb4d.RKLVef.N4XV7d, .MmhHI.qAeuG.N4XV7d, .JtukPc, .NI2kfb {
   background-color: #333333!important;
   color: #DDDDDD!important;
 }
 
-/* This is for the lighter layout */
+.ebZ3od.MANBAf {
+  background-color: #444!important;
+  color: #DDD!important;
+}
 
-.SU7tYb.elYzab-cXXICe-Hjleke.F262Ye,
-.YvjgZe.F262Ye,
-.WJVfWe.A3o4Oe::after {
-  background-color: #434343!important;
-  color: #CCCCCC!important;
+.G5v83e, .Gk2izd, body[data-viewfamily="EVENT"] .TOTjfb, body[data-viewfamily="SEARCH"] .TOTjfb, .SU7tYb {
+  border: none!important;
+}
+
+.eADW5d {
+  border-right: 1px solid #e0e0e0 !important;
+}
+
+.MmhHI.qAeuG.F262Ye, .MmhHI.KSxb4d.RKLVef.F262Ye {
+  color: #0AB7FF!important;
+}
+
+.kap9Ye {
+  color: #DDDDDD!important;
+  opacity: .54!important;
 }
