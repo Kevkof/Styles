@@ -282,3 +282,7 @@ div>select {
 ul.nav.navbar-nav.navbar-right>li.active>img {
   background-color: #444444 !important;
 }
+
+.panel.panel-default.portal-block {
+  border: none!important;
+}
