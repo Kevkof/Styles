@@ -12,3 +12,5 @@
 ## Calendar
 
 [Code File](code/calendar.css)
+
+These files can be used freely
