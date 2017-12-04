@@ -1,17 +1,27 @@
-/*
-URLs on the domain: chamilo.hogent.be
-*/
-
-body, .navbar-header, .navbar.navbar-chamilo.navbar-default.navbar-no-items::before, #menu-navbar-collapse, .navbar.navbar-chamilo.navbar-default.navbar-no-items, #menu-navbar-collapse::before, .navbar.navbar-chamilo.navbar-default {
+body,
+.navbar-header,
+.navbar.navbar-chamilo.navbar-default.navbar-no-items::before,
+#menu-navbar-collapse,
+.navbar.navbar-chamilo.navbar-default.navbar-no-items,
+#menu-navbar-collapse::before,
+.navbar.navbar-chamilo.navbar-default {
   background-color: #222222!important;
 }
 
-div.panel-body, .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus, .breadcrumb, .container-breadcrumb, tbody>tr>td {
+div.panel-body,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus,
+.breadcrumb,
+.container-breadcrumb,
+tbody>tr>td {
   background-color: #333333!important;
   color: #CCCCCC;
 }
 
-p, h3, .portal-block .panel-title {
+p,
+h3,
+.portal-block .panel-title {
   color: #CCCCCC;
 }
 
@@ -21,15 +31,22 @@ p, h3, .portal-block .panel-title {
   box-shadow: none;
 }
 
-div.panel-heading.ui-sortable-handle, .panel-heading, .nav.nav-tabs.course-list-tabs, .nav.nav-tabs.tool-list-tabs, .course-list-tab-content .list-group-header {
+div.panel-heading.ui-sortable-handle,
+.panel-heading,
+.nav.nav-tabs.course-list-tabs,
+.nav.nav-tabs.tool-list-tabs,
+.course-list-tab-content .list-group-header {
   background-color: #232323!important;
 }
 
-li.list-group-item, div.portal-block-content.portal-block-course-list>div {
+li.list-group-item,
+div.portal-block-content.portal-block-course-list>div {
   background-color: #333333;
 }
 
-.pull-right>a, .course-list-tab-content .list-group-item-text, h5.list-group-item-heading.pull-left {
+.pull-right>a,
+.course-list-tab-content .list-group-item-text,
+h5.list-group-item-heading.pull-left {
   color: #AAAAAA;
 }
 
@@ -39,7 +56,10 @@ li.list-group-item, div.portal-block-content.portal-block-course-list>div {
   border: none;
 }
 
-div#bericht-van-de-dag>p, div#bericht-van-de-dag>table>tbody>tr>td>p, u, div#bericht-van-de-dag>ul>li>p {
+div#bericht-van-de-dag>p,
+div#bericht-van-de-dag>table>tbody>tr>td>p,
+u,
+div#bericht-van-de-dag>ul>li>p {
   color: #000000;
 }
 
@@ -52,7 +72,8 @@ div#bericht-van-de-dag>p, div#bericht-van-de-dag>table>tbody>tr>td>p, u, div#ber
   color: #CCCCCC;
 }
 
-thead>tr>th, th>a {
+thead>tr>th,
+th>a {
   color: #0ab7ff;
 }
 
@@ -72,7 +93,8 @@ thead>tr>th, th>a {
   background-color: #AAAAAA;
 }
 
-.fc-widget-content, .fc-widget-header {
+.fc-widget-content,
+.fc-widget-header {
   border: 1px solid #000000;
 }
 
@@ -114,11 +136,13 @@ span.portal-nav-tab-title {
   color: #DDDDDD;
 }
 
-li.pull-right.portal-actions.ui-sortable-handle>div>div>a, span.glyphicon.glyphicon-remove.portal-action-tab-delete.show {
+li.pull-right.portal-actions.ui-sortable-handle>div>div>a,
+span.glyphicon.glyphicon-remove.portal-action-tab-delete.show {
   color: #DDDDDD;
 }
 
-.btn-default span.glyphicon, .btn-default span.fa {
+.btn-default span.glyphicon,
+.btn-default span.fa {
   color: #DDDDDD;
 }
 
@@ -189,12 +213,15 @@ div.input-group-btn>button {
   background-color: #406e8e!important;
 }
 
-.pagination>.disabled>span, .pagination>.disabled>span:hover, .pagination>.disabled>span:focus {
+.pagination>.disabled>span,
+.pagination>.disabled>span:hover,
+.pagination>.disabled>span:focus {
   background-color: #333333;
   color: #DDDDDD;
 }
 
-#courses_visual_tabs>li>a, #courses_visual_tabs>li>a>span>span {
+#courses_visual_tabs>li>a,
+#courses_visual_tabs>li>a>span>span {
   color: #DDDDDD;
 }
 
@@ -207,7 +234,8 @@ div.input-group-btn>button {
   border: 1px solid #DDDDDD!important;
 }
 
-div.announcements.level_1, div.announcements.level_2 {
+div.announcements.level_1,
+div.announcements.level_2 {
   background: #333333!important;
   color: #DDDDDD!important;
 }
@@ -259,7 +287,10 @@ ul.nav.nav-tabs.dynamic-visual-tabs {
   background: #222222 repeat-x top left !important;
 }
 
-ul.tree-menu>li>div>a, ul.tree-menu>li>ul>li>div>a, ul.tree-menu>li>ul>li>ul>li>div>a, ul.tree-menu>li>ul>li>ul>li>ul>li>div>a {
+ul.tree-menu>li>div>a,
+ul.tree-menu>li>ul>li>div>a,
+ul.tree-menu>li>ul>li>ul>li>div>a,
+ul.tree-menu>li>ul>li>ul>li>ul>li>div>a {
   color: #BBBBBB!important;
 }
 
@@ -281,8 +312,4 @@ div>select {
 
 ul.nav.navbar-nav.navbar-right>li.active>img {
   background-color: #444444 !important;
-}
-
-.panel.panel-default.portal-block {
-  border: none!important;
 }
